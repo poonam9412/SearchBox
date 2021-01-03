@@ -14,3 +14,4 @@ Layout of the UI
 1) when u add search input and click on search button
 2) Show the result
 3) when you type in search the ur search history is also saved
+4) For getting the data corresponding to particular category user can select from select box
